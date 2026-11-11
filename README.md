@@ -2,7 +2,7 @@
 
 **AI Product Engineer: I take agentic AI and LLM features from spec to production, along with the full-stack SaaS around them.**
 
-5+ years shipping production systems for US insurance and healthcare platforms, plus generative-AI products built end to end. I currently lead a 3-person engineering team.
+5+ years shipping production systems for US insurance and healthcare platforms, plus generative-AI products built end to end. I currently manage a 12-person engineering team, and have led and worked across cross-functional teams with US product and engineering stakeholders throughout my career.
 
 ---
 
