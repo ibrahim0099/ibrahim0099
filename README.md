@@ -24,7 +24,7 @@
 | [**VirtualTry**](https://virtualtry.shop) | 3D/AR virtual eyewear try-on for Shopify and WooCommerce | GLB/GLTF model pipeline. 121 Shopify installs, 59 active merchant stores and 4.0 rating (Jul 2026) |
 | [**Elaviqo**](https://elaviqo.com) | Salon management SaaS | Bookings, POS, client records, staff pay, reports and salon websites on Next.js and Supabase |
 
-**Production systems for US insurance and healthcare:** patient-eligibility infrastructure affecting ~10,000 users, AI-assisted health risk assessment processing on AWS Lambda, DME intake and telemedicine integrations, Stripe and Braintree payments, and TCPA/DNC compliance integrations.
+**Production systems for US insurance and healthcare:** an eligibility integration covering ~10,000 patients, an event-driven redesign of a slow vendor API (WebSocket updates, no more 30 s timeouts), an AWS Lambda that brings AI voice-agent health risk assessments into a CRM, a quote-tool load time cut from 40–50 s to ~10 s, DME intake and telemedicine integrations, payment hardening, and TCPA consent compliance.
 
 ### Tech stack
 
